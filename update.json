@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "",
+  "version": "1.2.4",
+  "notes": "New: pull the pictures out of a game patch. The Changes tab reads the client's own file list, tells you which .ab bundles a patch added or rewrote, and extracts every texture from them into a folder named for the patch, the date and the time - with a summary and an index beside the images. Also decodes bundles the older reader refused (serialized v21).",
   "patch": {
     "forApp": "1.2.3",
-    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.3.json.gz",
-    "sha256": "f607a4799c852e0d02d8ab35b497210637c03881a569cdae1277b0e317d8587c",
-    "size": 53505
+    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.4.json.gz",
+    "sha256": "5c3884901ddb472cc3872466d847fa27c650ba345fadf69b1233cf0f5a3237b7",
+    "size": 58330
   },
   "exe": {
     "version": "1.2.3",
