@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "Art: every images folder inside the client is used, not just the first one found. A folder deeper in the client that merely looked like a game root no longer ends the search there. Settings now lists each art folder with its own count.",
+  "version": "1.2.2",
+  "notes": "Fixes the restart after an update: the relaunched app is now properly detached and, on Windows, gets its own console window. Before this it shared the old window and was killed when that closed, so the update installed but nothing came back. If a restart still fails, the app now says so instead of sitting on 'restarting'.",
   "patch": {
     "forApp": "1.2.0",
-    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.1.json.gz",
-    "sha256": "0bb66953b0a6b999f1f6d8ff16f55d4fac608bb1a404445ca206a7786be57f0e",
-    "size": 53206
+    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.2.json.gz",
+    "sha256": "7644c86172c02e8867fe097debeac6b3db85f948ddb2c89ad855aad934cdf977",
+    "size": 53524
   },
   "exe": {
     "version": "1.2.0",
