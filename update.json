@@ -1,16 +1,16 @@
 {
-  "version": "1.2.2",
-  "notes": "Fixes the restart after an update: the relaunched app is now properly detached and, on Windows, gets its own console window. Before this it shared the old window and was killed when that closed, so the update installed but nothing came back. If a restart still fails, the app now says so instead of sitting on 'restarting'.",
+  "version": "1.2.3",
+  "notes": "",
   "patch": {
-    "forApp": "1.2.0",
-    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.2.json.gz",
-    "sha256": "7644c86172c02e8867fe097debeac6b3db85f948ddb2c89ad855aad934cdf977",
-    "size": 53524
+    "forApp": "1.2.3",
+    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.3.json.gz",
+    "sha256": "f607a4799c852e0d02d8ab35b497210637c03881a569cdae1277b0e317d8587c",
+    "size": 53505
   },
   "exe": {
-    "version": "1.2.0",
-    "url": "https://github.com/abominationmahname-commits/sorokas-eye/releases/download/v1.2.0/SorokasEye.exe",
-    "sha256": "f096e15255459df8ccbe6c17e394361af59cfe61df58d1789c123e56e2675e74",
-    "size": 57704885
+    "version": "1.2.3",
+    "url": "https://github.com/abominationmahname-commits/sorokas-eye/releases/download/v1.2.3/SorokasEye.exe",
+    "sha256": "bd707dd87673550adccddf7e8c8a64d3fd209763a11ececdc4da71880c0b52d4",
+    "size": 57705596
   }
 }
