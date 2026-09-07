@@ -4,12 +4,12 @@
   "patch": {
     "forApp": "1.2.0",
     "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.0.json.gz",
-    "sha256": "3faa57db2ce40a69051bc1c5e4aa35ab213e9f51300ac66bf549fe1b184c21e5",
-    "size": 52844
+    "sha256": "4c210d399c0d2b59adbb76da303ec2476044acba94f42fe481046cd7bd1b97f1",
+    "size": 52929
   },
   "exe": {
     "url": "https://github.com/abominationmahname-commits/sorokas-eye/releases/download/v1.2.0/SorokasEye.exe",
-    "sha256": "0b0a178177189cf40133b4d1e6ee329ef4393f3bf6c0ca0b9b928b020db86984",
-    "size": 57704885
+    "sha256": "f096e15255459df8ccbe6c17e394361af59cfe61df58d1789c123e56e2675e74",
+    "size": 57704956
   }
 }
