@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "notes": "Art is found in every images folder of the client, not just the first. Search results no longer jump away from the row you clicked, and the row stays highlighted. Raw view has no size limit. Snapshots are named for the date and time by default. New: in-app updates.",
+  "patch": {
+    "forApp": "1.2.0",
+    "url": "https://raw.githubusercontent.com/abominationmahname-commits/sorokas-eye/main/patches/patch-1.2.0.json.gz",
+    "sha256": "3faa57db2ce40a69051bc1c5e4aa35ab213e9f51300ac66bf549fe1b184c21e5",
+    "size": 52844
+  },
+  "exe": {
+    "url": "https://github.com/abominationmahname-commits/sorokas-eye/releases/download/v1.2.0/SorokasEye.exe",
+    "sha256": "0b0a178177189cf40133b4d1e6ee329ef4393f3bf6c0ca0b9b928b020db86984",
+    "size": 57704885
+  }
+}
